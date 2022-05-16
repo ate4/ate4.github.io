@@ -34,8 +34,83 @@
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-2/</link>
+      <link>https://example.com/post/lastweek-3/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek-3/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I decided to change something and started doing an individual project earlier and I hope to pass this time&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/report/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The content of the main elements of the report
+is the title page.The first
+list of work is formed according to the pattern, which is usually given in the manuals on your subject.It is not required
+to specify such elements as the name of the educational institution, the type of work
+and information about the performer, but also to arrange them in strict accordance with the standards
+.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstract.The abstract is actually a brief presentation of your entire report and contains a number of statistical information. It should specify the number of parts, pages of the work, illustrations, appendices, tables, and used literature sources and applications. Here is also a list of the keywords of the work and the text of the abstract itself.The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation.In the practice of universities, the abstract is usually not included in the reports on laboratory work.&lt;/li&gt;
+&lt;li&gt;Introduction. In the introduction of a typical laboratory work, the goals of the research being conducted and the tasks that will help achieve the goals set are usually prescribed. At the same time, there are jobs in which students become real pioneers.Have you ever felt at least once a sense of extreme curiosity and impatience during laboratory work? To feel that in just a couple of minutes you will find the answer to the question to which there is no answer yet?The name for such an investigation will be written at the time of the return of the evidence of the actuality and the novelty of the study of the system.In order to really conduct research in this area, in which, as they say, no human foot has yet set foot, in the introduction you will need to give an assessment of modern the state of the problem under consideration and justify the need for its solution&lt;/li&gt;
+&lt;li&gt;The main part. Since different universities and disciplines have their own subtleties of laboratory work, the content of the main part is described in detail in the relevant manuals.It is important that this section of the work reflects its essence, describes the methodology and results of the work done. The main part prescribes the following elements:objectives of the study;tasks that will help you achieve your goals; the progress of the work, which describes the actions performed;  other sections provided by methodological materials on the discipline being studied.
+– Conclusion.This part of the work needs to be done to get the results of the laboratory work.To do this, evaluate how fully the tasks have been completed.In complex works, other elements may also be present, for example, recommendations for further application of the results of the work carried out&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/lastweek-2/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/lastweek-2/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Nothing new has happened&lt;/p&gt;
@@ -65,9 +140,82 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdowen/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdowen/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.
+What does it mean?&lt;/p&gt;
+&lt;p&gt;A &amp;ldquo;markup language&amp;rdquo; is just a set of conventions, rules.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s say you&amp;rsquo;re communicating with a friend by SMS. You can&amp;rsquo;t make the text bold or slanted in them. You agree with a friend: if I write * something* so between the asterisks, then consider it an oblique text. And if I write ** something ** between two asterisks, then consider it a bold text. You&amp;rsquo;ve made up the rules.&lt;/p&gt;
+&lt;p&gt;Markdown is a set of similar rules.
+The rules are clear to different programs and sites. For example, the &amp;ldquo;Questions and Answers&amp;rdquo; in Hexlet lessons support Markdown. This means that you can write texts there according to the Markdown rules, and after clicking &amp;ldquo;Send&amp;rdquo; the markup will become real: the text in single asterisks will become oblique, the text in double asterisks will become bold, and so on. This is a conversion from Markdown to HTML.
+Why is this necessary?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.
+For more convenient writing of texts for subsequent conversion to HTML or other formats.
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/lastweek/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:01 +0000</pubDate>
+      <guid>https://example.com/post/lastweek/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;All week I did laboratory work on operating systems programming and arduino, and I also worked on weekends at work In general, all my weeks are the same&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>it version control</title>
       <link>https://example.com/post/relatedpost/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/relatedpost/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on one project.Usually, the main project tree is stored in a local
@@ -99,79 +247,6 @@ this kind of information is stored in the change log, access to which can be res
 Unlike the classical ones, in distributed version control systems, a central
 repository is not mandatory.
 Among the classic VCS, the most famous are CVS, Subversion, and among the distributed ones — Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>https://example.com/post/lastweek/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/lastweek/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;All week I did laboratory work on operating systems programming and arduino, and I also worked on weekends at work In general, all my weeks are the same&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://example.com/post/markdowen/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdowen/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.
-What does it mean?&lt;/p&gt;
-&lt;p&gt;A &amp;ldquo;markup language&amp;rdquo; is just a set of conventions, rules.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s say you&amp;rsquo;re communicating with a friend by SMS. You can&amp;rsquo;t make the text bold or slanted in them. You agree with a friend: if I write * something* so between the asterisks, then consider it an oblique text. And if I write ** something ** between two asterisks, then consider it a bold text. You&amp;rsquo;ve made up the rules.&lt;/p&gt;
-&lt;p&gt;Markdown is a set of similar rules.
-The rules are clear to different programs and sites. For example, the &amp;ldquo;Questions and Answers&amp;rdquo; in Hexlet lessons support Markdown. This means that you can write texts there according to the Markdown rules, and after clicking &amp;ldquo;Send&amp;rdquo; the markup will become real: the text in single asterisks will become oblique, the text in double asterisks will become bold, and so on. This is a conversion from Markdown to HTML.
-Why is this necessary?&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.
-For more convenient writing of texts for subsequent conversion to HTML or other formats.
-&lt;/code&gt;&lt;/pre&gt;
 
 
 
