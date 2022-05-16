@@ -5,12 +5,44 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/lastweek-2/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek-2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Nothing new has happened&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>it version control</title>
@@ -79,6 +111,47 @@ Among the classic VCS, the most famous are CVS, Subversion, and among the distri
       <guid>https://example.com/post/lastweek/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;All week I did laboratory work on operating systems programming and arduino, and I also worked on weekends at work In general, all my weeks are the same&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdowen/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdowen/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.
+What does it mean?&lt;/p&gt;
+&lt;p&gt;A &amp;ldquo;markup language&amp;rdquo; is just a set of conventions, rules.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s say you&amp;rsquo;re communicating with a friend by SMS. You can&amp;rsquo;t make the text bold or slanted in them. You agree with a friend: if I write * something* so between the asterisks, then consider it an oblique text. And if I write ** something ** between two asterisks, then consider it a bold text. You&amp;rsquo;ve made up the rules.&lt;/p&gt;
+&lt;p&gt;Markdown is a set of similar rules.
+The rules are clear to different programs and sites. For example, the &amp;ldquo;Questions and Answers&amp;rdquo; in Hexlet lessons support Markdown. This means that you can write texts there according to the Markdown rules, and after clicking &amp;ldquo;Send&amp;rdquo; the markup will become real: the text in single asterisks will become oblique, the text in double asterisks will become bold, and so on. This is a conversion from Markdown to HTML.
+Why is this necessary?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.
+For more convenient writing of texts for subsequent conversion to HTML or other formats.
+&lt;/code&gt;&lt;/pre&gt;
 
 
 
