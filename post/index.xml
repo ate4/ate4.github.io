@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Mitichkina E. P.</title>
+    <link>https://ate4.github.io/post/</link>
+      <atom:link href="https://ate4.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:00:01 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ate4.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://ate4.github.io/post/</link>
     </image>
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-4/</link>
+      <link>https://ate4.github.io/post/lastweek-4/</link>
       <pubDate>Wed, 25 May 2022 00:00:01 +0000</pubDate>
-      <guid>https://example.com/post/lastweek-4/</guid>
+      <guid>https://ate4.github.io/post/lastweek-4/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;I decided to change something and started doing an individual project earlier and I hope to pass this time&lt;/p&gt;
 
@@ -46,9 +46,9 @@
     
     <item>
       <title>Scientific programming language</title>
-      <link>https://example.com/post/scientific-programming-language/</link>
+      <link>https://ate4.github.io/post/scientific-programming-language/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-programming-language/</guid>
+      <guid>https://ate4.github.io/post/scientific-programming-language/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;As computers become more ubiquitous in physics research (and scientific research in general), the issue of which programming languages to use becomes more important. Factors which especially influence the importance of this question are&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;the increasing complexity of the tasks being programmed;
@@ -108,9 +108,9 @@ Python is an object-oriented, extensible, interpreted language. It runs on essen
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-3/</link>
+      <link>https://ate4.github.io/post/lastweek-3/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/lastweek-3/</guid>
+      <guid>https://ate4.github.io/post/lastweek-3/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;I decided to change something and started doing an individual project earlier and I hope to pass this time&lt;/p&gt;
 
@@ -140,9 +140,9 @@ Python is an object-oriented, extensible, interpreted language. It runs on essen
     
     <item>
       <title>Report</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://ate4.github.io/post/report/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://ate4.github.io/post/report/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The content of the main elements of the report
 is the title page.The first
@@ -183,9 +183,9 @@ and information about the performer, but also to arrange them in strict accordan
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-2/</link>
+      <link>https://ate4.github.io/post/lastweek-2/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/lastweek-2/</guid>
+      <guid>https://ate4.github.io/post/lastweek-2/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Nothing new has happened&lt;/p&gt;
 
@@ -215,9 +215,9 @@ and information about the performer, but also to arrange them in strict accordan
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdowen/</link>
+      <link>https://ate4.github.io/post/markdowen/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdowen/</guid>
+      <guid>https://ate4.github.io/post/markdowen/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.
 What does it mean?&lt;/p&gt;
@@ -256,9 +256,9 @@ For more convenient writing of texts for subsequent conversion to HTML or other 
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek/</link>
+      <link>https://ate4.github.io/post/lastweek/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:01 +0000</pubDate>
-      <guid>https://example.com/post/lastweek/</guid>
+      <guid>https://ate4.github.io/post/lastweek/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;All week I did laboratory work on operating systems programming and arduino, and I also worked on weekends at work In general, all my weeks are the same&lt;/p&gt;
 
@@ -288,9 +288,9 @@ For more convenient writing of texts for subsequent conversion to HTML or other 
     
     <item>
       <title>it version control</title>
-      <link>https://example.com/post/relatedpost/</link>
+      <link>https://ate4.github.io/post/relatedpost/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/relatedpost/</guid>
+      <guid>https://ate4.github.io/post/relatedpost/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on one project.Usually, the main project tree is stored in a local
 or remote repository, to which access is configured for project participants.When

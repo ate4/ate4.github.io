@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Mitichkina E. P.</title>
+    <link>https://ate4.github.io/</link>
+      <atom:link href="https://ate4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mitichkina E. P.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://ate4.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mitichkina E. P.</title>
+      <link>https://ate4.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://ate4.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://ate4.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-4/</link>
+      <link>https://ate4.github.io/post/lastweek-4/</link>
       <pubDate>Wed, 25 May 2022 00:00:01 +0000</pubDate>
-      <guid>https://example.com/post/lastweek-4/</guid>
+      <guid>https://ate4.github.io/post/lastweek-4/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;I decided to change something and started doing an individual project earlier and I hope to pass this time&lt;/p&gt;
 
@@ -66,9 +66,9 @@
     
     <item>
       <title>Scientific programming language</title>
-      <link>https://example.com/post/scientific-programming-language/</link>
+      <link>https://ate4.github.io/post/scientific-programming-language/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-programming-language/</guid>
+      <guid>https://ate4.github.io/post/scientific-programming-language/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;As computers become more ubiquitous in physics research (and scientific research in general), the issue of which programming languages to use becomes more important. Factors which especially influence the importance of this question are&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;the increasing complexity of the tasks being programmed;
@@ -128,9 +128,9 @@ Python is an object-oriented, extensible, interpreted language. It runs on essen
     
     <item>
       <title>The art</title>
-      <link>https://example.com/project/project1/</link>
+      <link>https://ate4.github.io/project/project1/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/project1/</guid>
+      <guid>https://ate4.github.io/project/project1/</guid>
       <description>&lt;p&gt;Is surrounded by art every day. It&amp;rsquo;s hard to imagine a person&amp;rsquo;s life without art. It dates back to ancient times, when primitive people learned to draw on rocks, make tools, and make sounds.&lt;/p&gt;
 &lt;p&gt;Over the years, the culture has changed. But unlike people who lived, lived their lives and died, she remained. There are works by leading composers: Bach, Mozart, Beethoven. They have passed through the years and continue to please many people. We may not know the authors of famous works, but we hear and see the creation itself. A person may not know that the Mona Lisa was written by Leonardo da Vinci, and &amp;ldquo;To Elise&amp;rdquo; by Beethoven, but these works are priceless. And all because feelings are connected in them. In any kind of art - painting, literature, music, theater - feelings are embedded. The author, drawing a portrait, adds something of his own - his feelings, thoughts. The viewer perceives everything in his own way as well.In any work of art, he sees his own, his inner world. So, for example, one book can make a movie, a TV series, show a performance, but it will all be different, because everyone has their own ideas.&lt;/p&gt;
 &lt;p&gt;Art helps people discover more of themselves, realize themselves, go into their inner world - the world of their ideas and dreams. It helps to break away from the reality as it is, and get into a completely different, opposite world. That is why the role of art is invaluable in human life.&lt;/p&gt;
@@ -140,9 +140,9 @@ Python is an object-oriented, extensible, interpreted language. It runs on essen
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-3/</link>
+      <link>https://ate4.github.io/post/lastweek-3/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/lastweek-3/</guid>
+      <guid>https://ate4.github.io/post/lastweek-3/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;I decided to change something and started doing an individual project earlier and I hope to pass this time&lt;/p&gt;
 
@@ -172,9 +172,9 @@ Python is an object-oriented, extensible, interpreted language. It runs on essen
     
     <item>
       <title>Report</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://ate4.github.io/post/report/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://ate4.github.io/post/report/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The content of the main elements of the report
 is the title page.The first
@@ -215,9 +215,9 @@ and information about the performer, but also to arrange them in strict accordan
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek-2/</link>
+      <link>https://ate4.github.io/post/lastweek-2/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/lastweek-2/</guid>
+      <guid>https://ate4.github.io/post/lastweek-2/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Nothing new has happened&lt;/p&gt;
 
@@ -247,9 +247,9 @@ and information about the performer, but also to arrange them in strict accordan
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdowen/</link>
+      <link>https://ate4.github.io/post/markdowen/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdowen/</guid>
+      <guid>https://ate4.github.io/post/markdowen/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.
 What does it mean?&lt;/p&gt;
@@ -288,9 +288,9 @@ For more convenient writing of texts for subsequent conversion to HTML or other 
     
     <item>
       <title>Last week</title>
-      <link>https://example.com/post/lastweek/</link>
+      <link>https://ate4.github.io/post/lastweek/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:01 +0000</pubDate>
-      <guid>https://example.com/post/lastweek/</guid>
+      <guid>https://ate4.github.io/post/lastweek/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;All week I did laboratory work on operating systems programming and arduino, and I also worked on weekends at work In general, all my weeks are the same&lt;/p&gt;
 
@@ -320,9 +320,9 @@ For more convenient writing of texts for subsequent conversion to HTML or other 
     
     <item>
       <title>it version control</title>
-      <link>https://example.com/post/relatedpost/</link>
+      <link>https://ate4.github.io/post/relatedpost/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/relatedpost/</guid>
+      <guid>https://ate4.github.io/post/relatedpost/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on one project.Usually, the main project tree is stored in a local
 or remote repository, to which access is configured for project participants.When
@@ -380,9 +380,9 @@ Among the classic VCS, the most famous are CVS, Subversion, and among the distri
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://ate4.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://ate4.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -505,9 +505,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://ate4.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://ate4.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -524,9 +524,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://ate4.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://ate4.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
